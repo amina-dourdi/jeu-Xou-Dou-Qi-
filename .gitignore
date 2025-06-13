@@ -1,0 +1,7 @@
+target/
+.classpath
+.project
+.settings/
+xoudouqi.mv.db xoudouqiDB.mv.db
+xoudouqi.trace.db xoudouqiDB.trace.db
+*.log
